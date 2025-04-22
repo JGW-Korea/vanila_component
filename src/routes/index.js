@@ -1,3 +1,5 @@
+import { createRouter } from "../core";
+
 // src/rotues/index.js
 import Home from "./Home";
 import About from "./About";
